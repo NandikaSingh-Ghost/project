@@ -1,0 +1,102 @@
+body{
+    font-family: Verdana, sans-serif;
+    font-size: 18px;
+    background-color: #f4f8fb;
+    color: #333;
+}
+
+header{
+    background-color: #0a0a8f;
+    color: white;
+    text-align: center;
+}
+
+header h1,
+header p{
+    margin: 0;
+}
+
+#company-name{
+    font-size: 55px;
+}
+
+nav{
+    background-color: #d9edf7;
+    text-align: center;
+    font-size: 22px;
+}
+
+nav a{
+    color: #0a0a8f;
+    margin: 0 20px;
+}
+
+h2{
+    color: #0a0a8f;
+    font-size: 35px;
+}
+
+section{
+    background-color: white;
+}
+
+ul{
+    font-size: 20px;
+}
+
+address{
+    font-size: 18px;
+}
+
+footer{
+    background-color: #0a0a8f;
+    color: white;
+    text-align: center;
+    font-size: 18px;
+}
+.about-img{
+    width: 470px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+#services ul{
+    font-size: 22px;
+    line-height: 1.8;
+    color: #333;
+}
+
+.service-img{
+    width: 450px;
+    height: 300px;
+    float: left;
+    margin-right: 25px;
+    margin-bottom: 15px;
+}
+
+#contact h2{
+    color: #0a0a8f;
+    font-size: 40px;
+}
+
+#contact{
+    overflow: auto;
+}
+
+.contact-img{
+    float: right;
+    width: 45%;
+}
+
+footer{
+    clear: both;
+}
+#contact address{
+    font-size: 22px;
+    color: #333;
+}
+
+#contact p{
+    margin-bottom: 20px;
+}
